@@ -1,0 +1,21 @@
+FINAL ONE-FOLDER CHECKLIST
+==========================
+
+[Required source and build files]
+main.py
+requirements.txt
+Sonia_Receptionist.spec
+BUILD_SONIA_SETUP.bat
+RUN_SOURCE.bat
+installer\Sonia_Setup.iss
+assets\README.txt
+README_HINDI.txt
+
+[Created automatically on Windows]
+build_env\                  Temporary Python build environment
+build\                      Temporary PyInstaller files
+dist\Sonia_Receptionist.exe Portable Sonia application
+OUTPUT\Sonia_Setup.exe      Final Windows installer
+
+Do not move individual files before building. Extract and keep the complete
+SONIA_RECEPTIONIST_COMPLETE folder together.
