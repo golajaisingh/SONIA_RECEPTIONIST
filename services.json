@@ -1,0 +1,86 @@
+[
+  {
+    "category": "आधार एवं पहचान सेवाएँ",
+    "keywords": ["aadhaar", "आधार", "uidai", "पहचान"],
+    "services": ["आधार नामांकन", "आधार अपडेट", "मोबाइल/ईमेल अपडेट", "बायोमेट्रिक अपडेट", "बाल आधार", "ई-आधार/PVC प्रिंट", "आधार eKYC"],
+    "response": "आधार सेवा उपलब्धता UIDAI अनुमति पर निर्भर है। कृपया आधार कार्ड और संबंधित मूल दस्तावेज लेकर आएँ।"
+  },
+  {
+    "category": "PAN, Passport एवं अन्य पहचान",
+    "keywords": ["pan", "पैन", "passport", "पासपोर्ट", "voter", "वोटर"],
+    "services": ["नया PAN", "PAN सुधार", "e-PAN", "Passport आवेदन/अपॉइंटमेंट", "Voter ID आवेदन/सुधार", "Driving Licence सहायता", "DigiLocker दस्तावेज"],
+    "response": "पहचान संबंधी आवेदन के लिए आधार, फोटो, मोबाइल नंबर और संबंधित दस्तावेज आवश्यक होंगे।"
+  },
+  {
+    "category": "Delhi e-District एवं प्रमाणपत्र",
+    "keywords": ["certificate", "प्रमाणपत्र", "edistrict", "ई डिस्ट्रिक्ट", "delhi", "दिल्ली"],
+    "services": ["आय प्रमाणपत्र", "जाति SC/ST/OBC प्रमाणपत्र", "निवास प्रमाणपत्र", "जन्म प्रमाणपत्र", "मृत्यु प्रमाणपत्र", "विवाह प्रमाणपत्र", "Solvency Certificate", "Lal Dora Certificate", "Delayed Birth/Death Registration", "दस्तावेज सुधार/स्थिति"],
+    "response": "Delhi e-District सेवा के लिए आधार, दिल्ली पते का प्रमाण और सेवा के अनुसार सहायक दस्तावेज लेकर आएँ।"
+  },
+  {
+    "category": "राशन एवं सामाजिक कल्याण",
+    "keywords": ["ration", "राशन", "pension", "पेंशन", "scholarship", "छात्रवृत्ति"],
+    "services": ["नया राशन कार्ड", "राशन कार्ड सुधार", "सदस्य जोड़ना/हटाना", "वृद्धावस्था पेंशन", "विधवा पेंशन", "दिव्यांग पेंशन", "छात्रवृत्ति आवेदन", "श्रमिक/ई-श्रम पंजीकरण", "PM-SYM"],
+    "response": "सामाजिक कल्याण सेवा के लिए आधार, बैंक खाता, पते का प्रमाण और योजना के अनुसार प्रमाणपत्र आवश्यक हैं।"
+  },
+  {
+    "category": "बैंकिंग एवं DigiPay",
+    "keywords": ["bank", "बैंक", "digipay", "डिजिपे", "aeps", "loan", "लोन"],
+    "services": ["AEPS नकद निकासी", "जमा/मनी ट्रांसफर", "Balance Enquiry", "Mini Statement", "Bank Account Opening सहायता", "Jan Dhan", "Loan आवेदन सहायता", "EMI भुगतान", "Digital Life Certificate/Jeevan Pramaan"],
+    "response": "बैंकिंग सेवा के लिए आधार, बैंक विवरण और registered mobile आवश्यक है। सेवा अधिकृत DigiPay/CSP उपलब्धता पर निर्भर है।"
+  },
+  {
+    "category": "बीमा एवं पेंशन",
+    "keywords": ["insurance", "बीमा", "nps", "apy", "pmjjby", "pmsby"],
+    "services": ["Life Insurance", "Health Insurance", "Motor Insurance", "Crop Insurance/PMFBY", "PMSBY", "PMJJBY", "Atal Pension Yojana", "National Pension System"],
+    "response": "बीमा या पेंशन के लिए आधार, PAN, बैंक विवरण, nominee और योजना के अनुसार जानकारी आवश्यक होगी।"
+  },
+  {
+    "category": "बिल भुगतान एवं Recharge",
+    "keywords": ["bill", "बिल", "recharge", "रिचार्ज", "bbps"],
+    "services": ["बिजली बिल", "पानी बिल", "गैस बिल/बुकिंग", "मोबाइल Recharge", "DTH Recharge", "Broadband/Landline", "FASTag Recharge", "Municipal Tax", "LIC Premium", "Bharat BillPay"],
+    "response": "बिल भुगतान के लिए consumer/account number और mobile number लेकर आएँ।"
+  },
+  {
+    "category": "शिक्षा, परीक्षा एवं कौशल",
+    "keywords": ["education", "शिक्षा", "exam", "परीक्षा", "course", "कोर्स"],
+    "services": ["School/College Admission Form", "सरकारी परीक्षा Form", "Admit Card/Result", "NIOS", "PMGDISHA", "Skill Development", "CSC Academy Courses", "Tally Course", "Online Learning/Certification"],
+    "response": "शिक्षा या परीक्षा आवेदन के लिए marksheet, आधार, फोटो, signature और active mobile/email आवश्यक हैं।"
+  },
+  {
+    "category": "स्वास्थ्य सेवाएँ",
+    "keywords": ["health", "स्वास्थ्य", "ayushman", "आयुष्मान", "telemedicine"],
+    "services": ["Ayushman Bharat Card", "ABHA Health ID", "Telemedicine Consultation", "Diagnostic Booking", "Jan Aushadhi जानकारी", "Health Insurance सहायता"],
+    "response": "स्वास्थ्य सेवा के लिए आधार, mobile और उपलब्ध medical documents लेकर आएँ।"
+  },
+  {
+    "category": "कृषि एवं किसान",
+    "keywords": ["farmer", "किसान", "agriculture", "कृषि", "kisan"],
+    "services": ["PM-KISAN सहायता", "Kisan Registration", "Soil Health Card", "PM Fasal Bima", "Kisan Credit Card सहायता", "Agriculture Marketplace", "Farm Machinery/Inputs"],
+    "response": "किसान सेवा के लिए आधार, बैंक खाता और भूमि/फसल संबंधी दस्तावेज आवश्यक हैं।"
+  },
+  {
+    "category": "व्यवसाय, GST एवं लाइसेंस",
+    "keywords": ["gst", "जीएसटी", "udyam", "उद्यम", "fssai", "license", "लाइसेंस"],
+    "services": ["Udyam Registration", "GST Registration/Return सहायता", "FSSAI Registration", "Shop/Trade Licence सहायता", "Street Vendor Licence", "e-Stamp सहायता", "MSME/Loan Scheme", "GeM Registration", "ITR सहायता"],
+    "response": "व्यवसाय सेवा के लिए आधार, PAN, mobile/email, bank और business/address documents आवश्यक हैं।"
+  },
+  {
+    "category": "कानूनी एवं पुलिस सेवाएँ",
+    "keywords": ["pcc", "पीसीसी", "police", "पुलिस", "legal", "कानूनी", "court"],
+    "services": ["Police Clearance Certificate", "Police Verification सहायता", "e-Courts जानकारी", "Legal Literacy/Tele-Law", "Affidavit/Notary Draft सहायता", "Traffic Challan भुगतान"],
+    "response": "पुलिस या कानूनी सेवा के लिए पहचान, पते का प्रमाण और आवेदन का स्पष्ट उद्देश्य आवश्यक है।"
+  },
+  {
+    "category": "यात्रा एवं परिवहन",
+    "keywords": ["travel", "यात्रा", "ticket", "टिकट", "fastag", "vehicle", "वाहन"],
+    "services": ["Train Ticket सहायता", "Bus Ticket", "Flight Ticket", "Hotel Booking", "FASTag", "Vehicle Insurance", "Driving Licence/RC सहायता", "Pollution Certificate जानकारी"],
+    "response": "यात्रा सेवा के लिए यात्री का सही नाम, आयु, पहचान और यात्रा विवरण आवश्यक है।"
+  },
+  {
+    "category": "Digital एवं कार्यालय सेवाएँ",
+    "keywords": ["print", "प्रिंट", "scan", "स्कैन", "photo", "फोटो", "online form"],
+    "services": ["Print/Photocopy", "Scan", "Passport Photo", "Lamination", "Online Form Filling", "Email", "Resume/Biodata", "PDF बनाना/मर्ज", "Document Typing", "Hindi/English Typing"],
+    "response": "Print, scan, photo, typing और online form की सुविधा SHIVEN CSC Centre पर उपलब्ध है।"
+  }
+]
